@@ -18,7 +18,7 @@ Maintained by [Swaadhigam](https://swaadhigam.com). The same numbers, with chart
 
 ## A few things the data shows
 
-- **Economy** carried 12 to 26 of the 100 questions a year, and topped or tied for the top in 8 of the 12 papers.
+- **Economy** carried 12 to 26 of the 100 questions a year, and topped or tied for the top in 7 of the 12 papers (Polity led in 2017, 2021 and 2023; Polity and Geography tied in 2024; Science & Technology led in 2026).
 - **Polity** swings the most: 5 questions in 2016, 22 in 2017, 17 in 2025 and 7 in 2026.
 - **Current-affairs** questions went from 1 in 2020 to 14 in 2026.
 - **2026** set three case-based ethics questions (51–53), the first in any of the twelve papers. It also dropped the "How many of the above" format, which had 45 questions in 2023.
